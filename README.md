@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Renan Breier
 
-- 🔭 Trabalho com T.I
-- 🌱 Me especializando em Python
+- 🔭 Analista de Suporte
+- 🌱 1° Semestre - ADS
 
 <div align="center">
   <a href="https://github.com/renanbreier">
