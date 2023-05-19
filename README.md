@@ -4,8 +4,8 @@
 - 🌱 1° Semestre - ADS
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=renanbreier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbreier&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=renanbreier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbreier&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
