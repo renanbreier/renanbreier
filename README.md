@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Renan Breier
 
-- 🔭 Analista de Suporte
-- 🌱 1° Semestre - ADS
+- 💻 Analista de Suporte - Sonner Sistemas
+- 📚 ADS - IFSP
 
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=renanbreier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
