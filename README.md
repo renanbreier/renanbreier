@@ -3,6 +3,10 @@
 - 💻 Analista de Suporte - Sonner Sistemas
 - 📚 ADS - IFSP
 
+---
+
+### 🛠️ GitHub Stats
+
 <div align="center">
   <img height="183em" src="https://github-readme-stats.vercel.app/api?username=renanbreier&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbreier&layout=compact&langs_count=7&theme=bear"/>
