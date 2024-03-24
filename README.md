@@ -1,6 +1,6 @@
 # Olá devs 👋
 
-Amo desenvolver softwares! Cursando atualmente o 3° de ADS no IFSP e trabalhando como Analista de Suporte na Sonner Sistemas.
+Amo desenvolver softwares! Cursando atualmente o 3° semestre de ADS no IFSP e trabalhando como Analista de Suporte N3 na Sonner Sistemas.
 
 ## Mais sobre mim
 
