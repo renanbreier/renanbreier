@@ -1,6 +1,6 @@
 # Olá devs 👋
 
-Amo desenvolver softwares! Cursando atualmente o 3° semestre de ADS no IFSP e trabalhando como Analista de Suporte N3 na Sonner Sistemas.
+Amo desenvolver softwares! Cursando atualmente o 5° semestre de ADS no IFSP e trabalhando como Analista de Suporte N3 na Sonner Sistemas.
 
 ## Mais sobre mim
 
@@ -12,7 +12,7 @@ object **Renan** {
  val acknowledgements = "Full Stack Developer"
 
  val primarySkillset = "Ágil, proativo e dedicado"
- val languages = listOf("NodeJS", "React", "JavaScript", "Python", "SQL")
+ val languages = listOf("Angular", "Java", "Python", "C")
 
 }
 ```
