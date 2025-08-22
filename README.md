@@ -17,7 +17,7 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-- 👩‍💻 Support Analyst @[Sonner Sistemas](https://www.sonner.com.br/)
+- 👩‍💻 Full Stack Developer @[Sonner Sistemas](https://www.sonner.com.br/)
 - 🎓 Graduation in Systems Analysis and Development
 - 🌐 Passionate about web development and mobile
 - 💡 Always looking for good challenges
