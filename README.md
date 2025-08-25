@@ -7,16 +7,8 @@
 
 
 ## My name is Renan Breier
-###### (Java | Spring | Flutter | Dart | React | Angular | Typescript | Javascript | Python ) 🚀
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+###### (Java | Spring | Kotlin | Angular | Typescript | AWS | GCP | Docker | Postgres | MySQL ) 🚀
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,angular,typescript,aws,gcp,docker,postgres,mysql)](https://skillicons.dev)
 - 👩‍💻 Full Stack Developer @[Sonner Sistemas](https://www.sonner.com.br/)
 - 🎓 Graduation in Systems Analysis and Development
 - 🌐 Passionate about web development and mobile
