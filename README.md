@@ -9,7 +9,7 @@
 ## My name is Renan Breier
 ###### (Java | Spring | Kotlin | Angular | Typescript | AWS | GCP | Docker | Postgres | MySQL ) 🚀
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,angular,typescript,aws,gcp,docker,postgres,mysql)](https://skillicons.dev)
-- 👩‍💻 Full Stack Developer @[Sonner Sistemas](https://www.sonner.com.br/)
+- 👩‍💻 Software Engineer @[Sonner Sistemas](https://www.sonner.com.br/)
 - 🎓 Graduation in Systems Analysis and Development
 - 🌐 Passionate about web development and mobile
 - 💡 Always looking for good challenges
